@@ -1,0 +1,2 @@
+sleep 5
+wmctrl -r "terminator" -t 2
